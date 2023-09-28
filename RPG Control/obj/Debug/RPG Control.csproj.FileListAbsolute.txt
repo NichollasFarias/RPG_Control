@@ -1,0 +1,12 @@
+D:\Projetos do C#\RPG Control\RPG Control\bin\Debug\RPG Control.exe.config
+D:\Projetos do C#\RPG Control\RPG Control\bin\Debug\RPG Control.exe
+D:\Projetos do C#\RPG Control\RPG Control\bin\Debug\RPG Control.pdb
+D:\Projetos do C#\RPG Control\RPG Control\obj\Debug\RPG Control.csprojAssemblyReference.cache
+D:\Projetos do C#\RPG Control\RPG Control\obj\Debug\RPG_Control.Properties.Resources.resources
+D:\Projetos do C#\RPG Control\RPG Control\obj\Debug\RPG Control.csproj.GenerateResource.cache
+D:\Projetos do C#\RPG Control\RPG Control\obj\Debug\RPG Control.csproj.CoreCompileInputs.cache
+D:\Projetos do C#\RPG Control\RPG Control\obj\Debug\RPG Control.exe
+D:\Projetos do C#\RPG Control\RPG Control\obj\Debug\RPG Control.pdb
+D:\Projetos do C#\RPG Control\RPG Control\obj\Debug\RPG_Control.TelaInicial.resources
+D:\Projetos do C#\RPG Control\RPG Control\obj\Debug\RPG_Control.Form2.resources
+D:\Projetos do C#\RPG Control\RPG Control\obj\Debug\RPG_Control.Form3.resources
